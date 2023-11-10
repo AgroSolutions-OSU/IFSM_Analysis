@@ -1,0 +1,206 @@
+
+
+	Average crop yields and nutritive contents over a 25 year analysis of a 85 ha
+	dairy farm.
+	__________________________________________________________________________________
+
+	               --------- Preharvest --------     ----------- Postharvest -------
+	                 Yield       Crude                   Yield       Crude
+	               (t DM/ha)    Protein      NDF       (t DM/ha)    Protein      NDF
+	__________________________________________________________________________________
+
+	GRASS, 85 ha
+	  Cutting 1       3.92       15.6       44.8          3.69       16.0       47.7
+	  Cutting 2       2.56       18.6       42.8          2.46       18.8       44.2
+	    Total         6.48       16.8       44.1          6.15       17.4       46.0
+	__________________________________________________________________________________
+
+
+
+	Annual feed production and use for a 25 year analysis of a dairy farm with 200
+	cows and 129 other stock on 85 hectares of land.
+	__________________________________________________________________________________
+
+	                                                 Unit        Mean          SD
+	__________________________________________________________________________________
+
+	  High-quality silage production                 t DM         150          19
+	  Grazed forage consumed                         t DM         320          42
+	  Forage purchased                               t DM         641          53
+	  Grain purchased                                t DM         554           6
+	  Soybean meal, 44% purchased                    t DM           6           4
+	  User defined feed purchased                    t DM          28           3
+	  Mineral and vitamin mix purchased              t DM          10           0
+	  Milk production                               L/cow        8419          15
+	  Fat and protein corrected milk production    kg/cow        9890          17
+	_________________________________________________________________________________
+
+
+
+	Nutrients available, used, and lost to the environment for a 25 year analysis of
+	a farm with 200 cows and 129 other stock on 85 hectares of land.
+	__________________________________________________________________________________
+
+	                                                 Unit        Mean          SD
+	__________________________________________________________________________________
+
+	  Nitrogen imported to farm                     kg/ha       479.2        17.5
+	  Nitrogen exported from farm                   kg/ha       124.1         0.0
+	  Nitrogen lost by volatilization               kg/ha       128.9         8.2
+	  Nitrogen lost by leaching                     kg/ha       136.8        28.4
+	  Nitrogen lost by de/nitrification             kg/ha        47.6         5.4
+	  Nitrogen lost by runoff                       kg/ha         0.3         0.2
+	  Nitrogen concentration in leachate             ppm          9.3         2.3
+	  Whole-farm excess nitrogen                    kg/ha        47.1        29.8
+
+	  Phosphorous imported to farm                  kg/ha        50.8         1.7
+	  Phosphorous exported from farm                kg/ha        17.5         0.0
+	  Phosphorous available on farm                 kg/ha        49.2         4.2
+	  Phosphorous loss in runoff and leachate       kg/ha         1.1         0.7
+	  Whole-farm excess phosphorus                  kg/ha        32.3         1.7
+
+	  Potassium imported to farm                    kg/ha       187.4        10.1
+	  Potassium exported from farm                  kg/ha        25.6         0.0
+	  Potassium available on farm                   kg/ha       314.8        27.2
+	  Potassium loss through runoff                 kg/ha        15.7         1.4
+	  Whole-farm excess potassium                   kg/ha       146.1        10.4
+
+	  Carbon imported to farm                       kg/ha     15031.7       934.7
+	  Carbon exported from farm                     kg/ha      1441.5         0.0
+	  Carbon loss as carbon dioxide                 kg/ha     13237.6       935.9
+	  Carbon loss as methane                        kg/ha       351.3         4.2
+	  Carbon loss through runoff                    kg/ha         1.3         0.8
+	_________________________________________________________________________________
+
+
+
+	Annual production costs and return to management for a 25 year analysis of a 
+	farm with 200 cows and 129 other stock on 85 hectares of land.
+	__________________________________________________________________________________
+
+	                                                 Unit        Mean          SD
+	__________________________________________________________________________________
+
+	  Equipment cost                                   $        41976         246
+	  Facilities cost                                  $        86883         446
+	  Energy cost                                      $        20027         122
+	  Labor cost                                       $        67797         285
+	  Seed, fertilizer and chemical cost               $        14863           0
+	  Net purchased feed and bedding cost              $       279079        9281
+	  Animal purchase and livestock expense            $        74625           0
+	  Milk hauling and marketing fees                  $        33677          59
+	  Property tax                                     $         5979           0
+
+	  Income from milk sales                           $       673539        1173
+	  Income from animal sales                         $        53648           0
+
+	  Return to management and unpaid factors          $       102281        9381
+	_________________________________________________________________________________
+
+
+
+	Daily and annual emissions of important gaseous compounds for a dairy farm with
+	200 cows and 129 other stock on 85 hectares of land.
+	_________________________________________________________________________________
+
+	                             Maximum daily     Average daily      Total annual
+	                             kg/cow     kg     kg/cow     kg     kg/cow      kg
+	_________________________________________________________________________________
+
+	Ammonia
+	   Housing facility          0.077      15     0.023       5       8.2      1647
+	   Manure storage            0.316      63     0.056      11      20.3      4064
+	   Field application         1.326     265     0.069      14      25.3      5055
+	   Grazing                   0.142      28     0.035       7      12.8      2553
+	      Total farm             1.552     310     0.182      36      66.6     13319
+
+	Hydrogen Sulfide
+	   Housing facility          0.000       0     0.000       0       0.1        11
+	   Manure storage            0.007       1     0.002       0       0.6       111
+	   Field application         0.038       8     0.002       0       0.7       141
+	   Grazing                   0.000       0     0.000       0       0.0         1
+	      Total farm             0.041       8     0.004       1       1.3       263
+
+	Ozone Forming VOC
+	   Silo face                 0.000       0     0.000       0       0.0         7
+	   Silage feeding            0.004       1     0.002       0       0.6       129
+	   Housing manure            0.001       0     0.000       0       0.2        32
+	   Manure storage            0.019       4     0.003       1       1.2       238
+	   Field / grazing           0.056      11     0.004       1       1.6       328
+	      Total farm             0.065      13     0.010       2       3.7       734
+
+	Methane
+	   Animal                    0.525     105     0.453      91     165.2     33035
+	   Housing manure            0.100      20     0.028       6      10.1      2027
+	   Manure storage            0.198      40     0.061      12      22.2      4440
+	   Field application         0.017       3     0.004       1       1.6       311
+	      Total farm             0.683     137     0.545     109     199.1     39813
+
+	Nitrous Oxide
+	   Animal                    0.001       0     0.000       0       0.2        36
+	   Housing manure            0.007       1     0.002       0       0.6       119
+	   Farmland                  0.021       4     0.004       1       1.4       288
+	   Indirect sources          0.004       1     0.004       1       1.5       302
+	      Total farm             0.027       5     0.010       2       3.7       744
+
+	Biogenic Carbon Dioxide
+	   Housing facility         15.766    3153     7.435    1487    2713.8    542758
+	   Manure storage            1.453     291     0.440      88     160.4     32086
+	   Grazing                  11.593    2319     6.615    1323    2414.4    482885
+	   Net land and feed           ---     ---   -20.644   -4129   -7534.9  -1506981
+	      Total farm               ---     ---    -6.154   -1231   -2246.3   -449254
+
+	Anthropogenic Carbon Dioxide   ---     ---     1.496     299     546.1    109229
+	_________________________________________________________________________________
+
+
+
+	Environmental footprints of water, nitrogen, energy and carbon for a dairy farm
+	with 200 cows and 129 other stock on 85 hectares of land.
+	_________________________________________________________________________________
+
+	                                               Unit          Mean          SD
+	_________________________________________________________________________________
+
+	Water Use
+	   Feed production, rainfall                    Mg          596423       37417
+	   Evapotranspiration                           Mg          564142       33732
+	   Drinking                                     Mg            6033          34
+	   Animal cooling and dust control              Mg              52          34
+	   Parlor and equipment cleaning                Mg            1825           0
+	   Production of purchased feed and inputs      Mg          478540       36824
+	   Not allocated to milk production             Mg          -44458        3393
+	      Green water footprint                 kg/kg FPCM         639          11
+	      Blue water footprint                  kg/kg FPCM       223.5        17.0
+
+	Reactive Nitrogen Loss
+	   Ammonia emission                             kg           10953         695
+	   Nitrate leaching and runoff                  kg           11649        2415
+	   De/nitrification emissions                   kg            4001         462
+	   Fuel combustion emissions                    kg              82           1
+	   Production of resource inputs                kg            3010          27
+	   Not allocated to milk production             kg           -2877         240
+	      Reactive nitrogen footprint            g/kg FPCM       13.56        1.21
+
+	Energy Use
+	   Feed production                              MJ          117592        2857
+	   Animal feeding                               MJ          104097        3164
+	   Manure handling                              MJ           48747         520
+	   Milking and milk cooling                     MJ          389252         678
+	   Animal housing ventilation and lighting      MJ           70927           0
+	   Production of resource inputs                MJ         4082577       95273
+	   Not allocated to milk production             MJ         -465426        8939
+	      Energy footprint                       MJ/kg FPCM       2.20        0.04
+
+	Greenhouse Gas Emissions (CO2e)
+	   Animal emissions                             kg          934537        3234
+	   Manure emissions                             kg          221202       16093
+	   Direct and indirect land emissions           kg          156165       14333
+	   Net biogenic carbon dioxide emissions        kg         -449254           0
+	   Anthropogenic carbon dioxide emissions       kg          109229         374
+	   Production of resource inputs                kg          466848        8311
+	   Not allocated to milk production             kg         -186851        2605
+	      Carbon footprint without biogenic CO2  kg/kg FPCM      0.860        0.01
+	      Carbon footprint with biogenic CO2     kg/kg FPCM      0.654        0.01
+	_________________________________________________________________________________
+	FPCM is fat and protein corrected milk (4.0% fat and 3.3% protein)
