@@ -1,0 +1,93 @@
+Product_Flows,Units,Amounts
+Crop/Nutrient Yields Preharvest,tDM/ha,6.48
+Crop/Nutrient Yields Prehavest,CrudeProtein,16.8
+Crop/Nutrient Yields Preharvest,NDF,44.1
+Crop/Nutrient Yields Postharvest,tDM/ha,6.15
+Crop/Nutrient Yields Posthavest,CrudeProtein,17.4
+Crop/Nutrient Yields Postharvest,NDF,46.0
+High-quality silage production, t DM,150.0
+Grazed forage consumed, t DM,320.0
+Forage purchased, t DM,641.0
+Grain purchased,t DM,554.0
+"Soybean meal, 44% purchased",t DM,6.0
+User defined feed purchased,t DM,28.0
+Mineral and vitamin mix purchased,t DM,10.0
+Milk production, L/cow,8419.0
+Fat and protein corrected milk production,kg/cow,9890.0
+Nitrogen imported to farm, kg/ha,479.2
+Nitrogen exported from farm, kg/ha,124.1
+Nitrogen lost by volatilization, kg/ha,128.9
+Nitrogen lost by leaching, kg/ha,136.8
+Nitrogen lost by de/nitrification, kg/ha,47.6
+Nitrogen lost by runoff, kg/ha,0.3
+Nitrogen concentration in leachate, ppm,9.3
+Whole-farm excess nitrogen,kg/ha,47.1
+Phosphorous imported to farm,kg/ha,50.8
+Phosphorous exported from farm,kg/ha,17.5
+Phosphorous available on farm, kg/ha,49.2
+Phosphorous loss in runoff and leachate, kg/ha,1.1
+Whole-farm excess phosphorus,kg/ha,32.3
+Potassium imported to farm,kg/ha,187.4
+Potassium exported from farm,kg/ha,25.6
+Potassium available on farm, kg/ha,314.8
+Potassium loss through runoff, kg/ha,15.7
+Whole-farm excess potassium, kg/ha,146.1
+Carbon imported to farm, kg/ha,15031.7
+Carbon exported from farm, kg/ha,1441.5
+Carbon loss as carbon dioxide, kg/ha,13237.6
+Carbon loss as methane,kg/ha,351.3
+Carbon loss through runoff,kg/ha,1.3
+Equipment cost, $,41976.0
+Facilities cost,$,86883.0
+Energy cost,$,20027.0
+Labor cost, $,67797.0
+"Seed, fertilizer and chemical cost", $,14863.0
+Net purchased feed and bedding cost,$,279079.0
+Animal purchase and livestock expense,$,74625.0
+Milk hauling and marketing fees,$,33677.0
+Property tax, $,5979.0
+Income from milk sales, $,673539.0
+Income from animal sales, $,53648.0
+Return to management and unpaid factors,$,102281.0
+Ammonia_ Housing facility,15.766,3153.0
+Ammonia_ Manure storage,1.453,291.0
+Ammonia_ Field application,0.017,3.0
+Ammonia_ Grazing,11.593,2319.0
+Ammonia_Total farm, ---, ---
+Ozone Forming VOC_ Silo face,0.0,0.0
+Ozone Forming VOC_ Silage feeding,0.004,1.0
+Ozone Forming VOC_ Housing manure,0.007,1.0
+Ozone Forming VOC_ Field / grazing,0.056,11.0
+Methane_ Animal,0.001,0.0
+Nitrous Oxide_ Farmland,0.021,4.0
+Nitrous Oxide_ Indirect sources,0.004,1.0
+Biogenic Carbon Dioxide_ Net land and feed, ---, ---
+Biogenic Carbon Dioxide_Anthropogenic Carbon Dioxide, ---, ---
+"Water Use_ Feed production, rainfall",Mg,596423.0
+Water Use_ Evapotranspiration, Mg,564142.0
+Water Use_ Drinking, Mg,6033.0
+Water Use_ Animal cooling and dust control,Mg,52.0
+Water Use_ Parlor and equipment cleaning,Mg,1825.0
+Water Use_ Production of purchased feed and inputs,Mg,478540.0
+Water Use_ Not allocated to milk production, kg,-186851.0
+Water Use_Green water footprint, kg/kg FPCM,639.0
+Water Use_Blue water footprint,kg/kg FPCM,223.5
+Reactive Nitrogen Loss_ Ammonia emission, kg,10953.0
+Reactive Nitrogen Loss_ Nitrate leaching and runoff,kg,11649.0
+Reactive Nitrogen Loss_ De/nitrification emissions, kg,4001.0
+Reactive Nitrogen Loss_ Fuel combustion emissions,kg,82.0
+Reactive Nitrogen Loss_ Production of resource inputs,kg,466848.0
+Reactive Nitrogen Loss_Reactive nitrogen footprint,g/kg FPCM,13.56
+Energy Use_ Feed production,MJ,117592.0
+Energy Use_ Animal feeding, MJ,104097.0
+Energy Use_ Manure handling,MJ,48747.0
+Energy Use_ Milking and milk cooling, MJ,389252.0
+Energy Use_ Animal housing ventilation and lighting,MJ,70927.0
+Energy Use_Energy footprint, MJ/kg FPCM,2.2
+Greenhouse Gas Emissions (CO2e)_ Animal emissions, kg,934537.0
+Greenhouse Gas Emissions (CO2e)_ Manure emissions, kg,221202.0
+Greenhouse Gas Emissions (CO2e)_ Direct and indirect land emissions, kg,156165.0
+Greenhouse Gas Emissions (CO2e)_ Net biogenic carbon dioxide emissions,kg,-449254.0
+Greenhouse Gas Emissions (CO2e)_ Anthropogenic carbon dioxide emissions, kg,109229.0
+Greenhouse Gas Emissions (CO2e)_Carbon footprint without biogenic CO2,kg/kg FPCM,0.86
+Greenhouse Gas Emissions (CO2e)_Carbon footprint with biogenic CO2, kg/kg FPCM,0.654
